@@ -4,7 +4,6 @@ import java.util.ArrayList;
 
 import javax.enterprise.context.SessionScoped;
 import javax.faces.bean.ApplicationScoped;
-import javax.faces.bean.RequestScoped;
 import javax.faces.bean.ManagedBean;
 
 @ManagedBean(name = "calculadoraBean")
@@ -17,10 +16,6 @@ public class CalculadoraBean {
     private double moda;
     private double desviacionEstandar;
     private double varianza;
-
-    public CalculadoraBean(){
-        
-    }
 
     public String getLista() {
         return lista;

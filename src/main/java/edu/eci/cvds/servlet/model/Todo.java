@@ -7,11 +7,6 @@ public class Todo {
     private String title;
     private boolean completed;
 
-    
-    public Todo(){
-
-    }
-
 
     /**
      * userID
