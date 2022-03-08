@@ -12,8 +12,6 @@ CircleCI:
 [![CircleCI](https://circleci.com/gh/nicolaspalacios-f/Lab_06_CVDS/tree/main.svg?style=svg)](https://circleci.com/gh/nicolaspalacios-f/Lab_06_CVDS/tree/main)  
 URL pagina:   
 https://lalizardadora.herokuapp.com/  
-codigo:   
-8036b7d0-1e7f-49c4-b32e-f35112651189
 
 ### PARTE II. INTERFAZ GRÁFICA
 
