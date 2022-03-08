@@ -1,4 +1,7 @@
 # LABORATORIO 6 - CICLOS DE VIDA DE DESARROLLO DE SOFTWARE
+
+[![Codacy Badge](https://api.codacy.com/project/badge/Grade/c3f2e7f3530046589398594019803cac)](https://app.codacy.com/gh/nicolaspalacios-f/Lab_06_CVDS?utm_source=github.com&utm_medium=referral&utm_content=nicolaspalacios-f/Lab_06_CVDS&utm_campaign=Badge_Grade_Settings)
+
 ## *ESCUELA COLOMBIANA DE INGENIERÍA*
 ## *INTRODUCCIÓN A PROYECTOS WEB*
 
