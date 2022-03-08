@@ -115,7 +115,7 @@ public class CalculadoraBean {
     }
 
     public void calculateXXX(){
-        setArreglo((lista=="")?"0":lista);
+        setArreglo((lista.equals(""))?"0":lista);
         ingresados.add(lista);
         moda = calculateMode(arreglo);
         media = calculateMean(arreglo);
