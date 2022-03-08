@@ -13,6 +13,8 @@
 
     Para esta parte se uso una version más actualizada y eficiente encontrada en un tutorial https://www.youtube.com/watch?v=gleHFiWdKh8&ab_channel=ElProfeHP
 
+    - URL pagina: https://lalizardadora.herokuapp.com/
+
 ### PARTE II. INTERFAZ GRÁFICA
 
 2. Agregue mayor detalle a la interfaz gráfica de la página web para que se vea más amigable al usuario. Busque y agregue estilos, colores de fondo, títulos, centrar la página, etc. cualquier elemento o detalle que pueda mejorar cómo se ve la página y como el usuario la percibe. Si no recuerda cómo hacerlo, puede revisar la información disponible en W3Schools para HTML y CSS.
